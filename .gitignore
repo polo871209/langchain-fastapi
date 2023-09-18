@@ -1,0 +1,12 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore IDE-specific files (assuming .idea is for JetBrains IDEs)
+.idea/
+dependencies
+
+database.db
